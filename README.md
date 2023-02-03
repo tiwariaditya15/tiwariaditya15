@@ -12,9 +12,10 @@
 ![react](https://raw.githubusercontent.com/tiwariaditya15/tiwariaditya15/main/skills/icons8-react-native-48.png)
 ![node](https://raw.githubusercontent.com/tiwariaditya15/tiwariaditya15/209530001bfc06eb16412ca1340a076a03c9d868/skills/icons8-node-js.svg)
 
-
 ## Reach out to me here 🔗
 [![twitter](https://raw.githubusercontent.com/tiwariaditya15/tiwariaditya15/main/socials/icons8-twitter-48.png)](https://twitter.com/tiwariaditya15)
 [![linkedin](https://raw.githubusercontent.com/tiwariaditya15/tiwariaditya15/main/socials/icons8-linkedin-circled-48.png)](https://www.linkedin.com/in/aditya-tiwari-9272b91a7)
 [![gmail](https://raw.githubusercontent.com/tiwariaditya15/tiwariaditya15/main/socials/icons8-open-mailbox-with-raised-flag-48.png)](tiwariaditya1579@gmail.com)
 
+## Stats 📈
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiwariaditya15&layout=compact)](https://github.com/tiwariaditya15)
