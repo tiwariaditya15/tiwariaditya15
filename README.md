@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 💼 I'm fullstack developer at [Wellness Forever](https://www.wellnessforever.com)
+- 💼 Fullstack developer at [Wellness Forever](https://www.wellnessforever.com)
 - 🔭 I’m currently working on end to end typesafe full-stack projects
 - 🌱 I’m currently learning Typescript and Algorithms
 - 💬 Ask me about tennis & swimming
