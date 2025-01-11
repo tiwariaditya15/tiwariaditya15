@@ -5,12 +5,10 @@
 - 💬 Ask me about tennis & swimming
 
 ## Skills 👷🏼‍♂️
-![javascript](https://raw.githubusercontent.com/tiwariaditya15/tiwariaditya15/main/skills/icons8-javascript-48.png)
-![typescript](https://raw.githubusercontent.com/tiwariaditya15/tiwariaditya15/main/skills/icons8-typescript-48.png)
-![html](https://raw.githubusercontent.com/tiwariaditya15/tiwariaditya15/main/skills/icons8-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-48.png)
-![css](https://raw.githubusercontent.com/tiwariaditya15/tiwariaditya15/main/skills/icons8-css3-48.png)
-![react](https://raw.githubusercontent.com/tiwariaditya15/tiwariaditya15/main/skills/icons8-react-native-48.png)
-![node](https://raw.githubusercontent.com/tiwariaditya15/tiwariaditya15/209530001bfc06eb16412ca1340a076a03c9d868/skills/icons8-node-js.svg)
+![react](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg)
+![javascript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)
+![typescript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg)
+![node](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg)
 
 ## Reach out to me here 🔗
 [![twitter](https://raw.githubusercontent.com/tiwariaditya15/tiwariaditya15/main/socials/icons8-twitter-48.png)](https://twitter.com/tiwariaditya15)
