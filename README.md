@@ -13,4 +13,4 @@
 [![gmail](https://skillicons.dev/icons?i=gmail)](mailto:tiwariaditya1579@gmail.com)
 
 ## Stats 📈
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiwariaditya15&layout=compact)](https://github.com/tiwariaditya15)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiwariaditya15&layout=compact&theme=dark)](https://github.com/tiwariaditya15)
