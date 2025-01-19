@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 💼 Software Engineer 2 at [Moneycontrol](https://moneycontrol.com/)
 - 🔭 I’m currently working on end-to-end typesafe full-stack projects
-- 🌱 I’m currently learning Typescript, Data Structures and Go
+- 🌱 I’m currently learning Event Driven Systems, DBs, Data Structures and Go
 - 💬 Ask me about tennis & swimming
 
 ## Skills 👷🏼‍♂️
