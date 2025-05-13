@@ -5,7 +5,7 @@
 - 💬 Ask me about tennis & swimming
 
 ## Skills 👷🏼‍♂️
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,ts,js,go,bun,deno,html,css,next,astro,remix,svelte,postgres,mongodb,redis,aws,gcp&perline=9)]()
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,ts,go,js,bun,deno,html,css,next,astro,remix,svelte,postgres,mongodb,redis,aws,gcp&perline=9)]()
 
 ## Contact me 🔗
 [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/tiwariaditya15)
