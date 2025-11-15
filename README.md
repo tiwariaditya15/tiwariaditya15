@@ -1,11 +1,9 @@
 ## Hi there 👋
 - 💼 SWE at Network18
-- 🌱 Tinkering with Event Driven Systems, DBs, Data Structures and Go
-- 🔭 I’m currently working on end-to-end typesafe full-stack projects
-- 💬 Ask me about tennis & swimming
+- 🌱 Tinkering with Agents, LLMs, GenAI, Event Driven Systems, Cloud, Node, Go, Databases, and React
 
 ## Skills 👷🏼‍♂️
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,ts,go,js,bun,deno,html,css,next,astro,remix,svelte,postgres,mongodb,redis,aws,gcp&perline=9)]()
+[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,go,react,bun,next,py,remix,docker,postgres,mongodb,redis,aws,gcp&perline=7)]()
 
 ## Contact me 🔗
 [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/tiwariaditya15)
