@@ -1,5 +1,3 @@
-## Aditya Tiwari
-
 SWE at Network18. Working on AI agents, LLMs, event-driven systems, and high-throughput systems.
 
 [![My Skills](https://skillicons.dev/icons?i=go,nodejs,ts,react,docker,postgres,redis,aws&perline=8)](https://skillicons.dev)
