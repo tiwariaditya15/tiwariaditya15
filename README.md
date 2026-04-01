@@ -3,7 +3,7 @@
 - 🌱 Tinkering with Agents, LLMs, GenAI, Event Driven Systems, Cloud, Node, Go, Databases, and React
 
 ## Skills 👷🏼‍♂️
-[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,go,react,bun,next,py,remix,docker,postgres,mongodb,redis,aws,gcp&perline=7)]()
+[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,go,react,docker,postgres,redis,aws&perline=4)]()
 
 ## Contact me 🔗
 [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/tiwariaditya15)
