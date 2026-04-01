@@ -6,4 +6,3 @@ SWE at Network18. Working on AI agents, LLMs, event-driven systems, and cloud in
 
 [X](https://x.com/tiwariaditya15) · [LinkedIn](https://www.linkedin.com/in/aditya-tiwari-9272b91a7) · [Email](mailto:tiwariaditya1579@gmail.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiwariaditya15&layout=compact&theme=dark&hide_border=true)](https://github.com/tiwariaditya15)
